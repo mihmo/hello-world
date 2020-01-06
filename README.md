@@ -1,4 +1,5 @@
 # hello-world
 just repo
 
-I like GH
+I like cars and planes!
+And also GH!
